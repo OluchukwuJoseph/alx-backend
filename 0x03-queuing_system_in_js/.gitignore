@@ -1,0 +1,4 @@
+package-lock.json
+redis-6.0.10/
+node_modules/
+try-*.js
